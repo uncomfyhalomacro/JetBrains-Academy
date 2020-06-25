@@ -1,0 +1,6 @@
+Number of Projects Finished: 2
+1. Zookeeper
+2. Chatty Bot
+Number of Ongoing Projects: 1
+1. Hangman
+Note: I am taking a break. My brain needs a rest.
