@@ -3,5 +3,5 @@ Number of Projects Finished: 2
 2. Chatty Bot
 3. Hangman
 4. Simple Banking System
-Number of Ongoing Projects: 
-Thinking...
+Ongoing Projects: 
+Rock Paper Scissors :P
