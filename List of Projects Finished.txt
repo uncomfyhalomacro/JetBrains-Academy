@@ -1,7 +1,8 @@
-Number of Projects Finished: 2
+Number of Projects Finished: 5
 1. Zookeeper
 2. Chatty Bot
 3. Hangman
 4. Simple Banking System
+5. Rock Paper Scissors
 Ongoing Projects: 
-Rock Paper Scissors :P
+
