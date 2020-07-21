@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<form action="." method="GET">
+    <input type="text" name="q" placeholder="Type your search here..."/>
+
+</form>
+<h2>{{ title }}</h2><hr>
+
+{% for page in pages %}
+<h4>{{ page.date }}</h4>
+
+<ul>
+    {% for val in page.values %}
+    <li><a target="_blank" href="/news/{{ val.link }}/">{{ val.title }}</a></li>
+    {% endfor %}
+</ul>
+
+{% endfor %}
+
+{% endblock content %}

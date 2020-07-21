@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+</head>
+<body>
+<form action="." method="GET">
+    <input type="text" name="q" placeholder="Type your search here..."/>
+</form>
+<h2>Hyper news</h2><hr>
+
+
+
+<ul>
+    {% for pages in results %}
+    <li><a target="_blank" href="/news/{{ pages.link }}/"><h4>{{ pages.title }}</h4></a></li>
+    {% endfor %}
+</ul>
+
+<a target="_blank" href="/news/create/">Create News Page</a><br>
+<a target="_blank" href="/news/">Back to News Page</a>
+</body>
+</html>
