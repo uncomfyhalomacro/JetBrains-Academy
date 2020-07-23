@@ -7,5 +7,5 @@ Number of Projects Finished: 5
 6. Text-Based Browser
 7. HyperNews Portal
 8. Hypercar Service Center
-Ongoing Projects: Hypercar Service Center
+Ongoing Projects: To-Do List
 
