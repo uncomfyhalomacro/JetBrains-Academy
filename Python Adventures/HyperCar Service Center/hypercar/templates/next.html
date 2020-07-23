@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Next Client</title>
+</head>
+<body>
+{% if queue.ticket == 5 %}
+<div>Next ticket #{{ queue.ticket|add:-4 }}</div>
+    {% else %}
+        {% if queue.change_oil < 2 %}
+        <div>Waiting for the next client</div>
+        {% elif queue.ticket == 4 %}
+        <div>Next ticket #{{ queue.ticket|add:-1 }}</div>
+        {% else %}
+        <div>Next ticket #{{ queue.change_oil }}</div>
+        {% endif %}
+{% endif %}
+</body>
+</html>

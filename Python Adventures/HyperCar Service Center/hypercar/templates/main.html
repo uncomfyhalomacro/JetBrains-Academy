@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block content %}
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {{ title }}
+    </title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/materialize.min.css' %}">
+</head>
+
+<body class=blue-grey>
+<div class="center-align">
+
+<h2 class="white-text" >{{ title }}</h2>
+
+</div>
+<div class="center-align">
+    <ul>
+
+<li><a style="font-size: larger; font-family: 'Fira Code Medium'; color: #64ffda;" target="_blank" href="/get_ticket/change_oil">Change oil</a></li><br>
+<li><a style="font-size: larger; font-family: 'Fira Code Medium'; color: #64ffda;" target="_blank" href="/get_ticket/inflate_tires">Inflate tires</a></li><br>
+<li><a style="font-size: larger; font-family: 'Fira Code Medium'; color: #64ffda;" target="_blank" href="/get_ticket/diagnostic">Diagnostic</a></li><br>
+
+    </ul>
+</div>
+
+</body>
+
+{% endblock content %}

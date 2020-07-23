@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {{ title }}
+    </title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/materialize.min.css' %}">
+</head>
+<body class=blue-grey>
+<div class="center-align">Your number is {{ ticket_num }}</div>
+{% if ticket_num == 4 %}
+<div class="center-align">Please wait around 7 minutes</div>
+{% else %}
+<div class="center-align">Please wait around {{ ETA }} minutes</div>
+{% endif %}
+</body>
+</html>
