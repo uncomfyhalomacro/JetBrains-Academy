@@ -8,5 +8,6 @@ Number of Projects Finished: 5
 7. HyperNews Portal
 8. Hypercar Service Center
 9. To-Do List
-Ongoing Projects: 
+10. Smart Calculator
+Ongoing Projects: Password Hacker
 
