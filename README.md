@@ -8,16 +8,16 @@ and present research data in an informative way.
 You are welcome to look around at my GitHub repo.
 
 # Number of Projects Finished
-1. Zookeeper
-2. Chatty Bot
-3. Hangman
-4. Simple Banking System
-5. Rock Paper Scissors
-6. Text-Based Browser
-7. HyperNews Portal
-8. Hypercar Service Center
-9. To-Do List
-10. Smart Calculator
-11. Password Hacker
+1. Zookeeper [x]
+2. Chatty Bot [x]
+3. Hangman [x]
+4. Simple Banking System [x]
+5. Rock Paper Scissors [x]
+6. Text-Based Browser [x]
+7. HyperNews Portal [needs some revisions]
+8. Hypercar Service Center [needs some revisions]
+9. To-Do List [x]
+10. Smart Calculator [needs some revisions: I used eval() here which is known to be a vulnerability]
+11. Password Hacker [x]
 
 # Ongoing Project: *HyperJob Agency*
