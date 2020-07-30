@@ -9,5 +9,7 @@ Number of Projects Finished: 5
 8. Hypercar Service Center
 9. To-Do List
 10. Smart Calculator
-Ongoing Projects: Password Hacker
+11. Password Hacker
+
+Ongoing Projects: HyperJob Agency
 
