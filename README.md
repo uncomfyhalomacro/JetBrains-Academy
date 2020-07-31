@@ -19,5 +19,6 @@ You are welcome to look around at my GitHub repo.
 9. To-Do List [x]
 10. Smart Calculator [needs some revisions: I used eval() here which is known to be a vulnerability]
 11. Password Hacker [x]
+12. HyperJob Agency
 
-# Ongoing Project: *HyperJob Agency*
+# Ongoing Project: # Pending...
