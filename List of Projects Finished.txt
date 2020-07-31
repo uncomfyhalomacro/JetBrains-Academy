@@ -10,6 +10,7 @@ Number of Projects Finished: 5
 9. To-Do List
 10. Smart Calculator
 11. Password Hacker
+12. HyperJob Agency
 
-Ongoing Projects: HyperJob Agency
 
+Ongoing Projects: Pending...
