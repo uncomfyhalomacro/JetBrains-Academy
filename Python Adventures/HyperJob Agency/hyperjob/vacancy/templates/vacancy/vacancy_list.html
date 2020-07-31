@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+</head>
+<body>
+{% for item in object_list %}
+<div>{{ item.author }}: {{ item.description }}</div>
+{% empty %}
+<div>Sorry! Vacancy listings currently unavailable</div>
+{% endfor %}
+</body>
+</html>
