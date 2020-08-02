@@ -1,0 +1,243 @@
+[33mcommit 2e66a796ef4c7f3950b3d55802395452a4375bdc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jul 23 20:22:52 2020 +0800
+
+    Update List of Projects Finished.txt
+
+[33mcommit adab56dac211f00a840a120008e4a458d4517bd1[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jul 23 20:21:59 2020 +0800
+
+    Commiting finished project to master
+
+[33mcommit 16c41757bd36743fcc9c397ee0c322c5d436ca49[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jul 23 12:49:02 2020 +0800
+
+    Update List of Projects Finished.txt
+
+[33mcommit 3260f2ac06e4418c423ba5590d9fa696736e520f[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jul 23 12:44:11 2020 +0800
+
+    Update List of Projects Finished.txt
+
+[33mcommit 303696fc24e2a4e693c2b50bed04c64a7cd2d2cf[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jul 23 12:42:09 2020 +0800
+
+    Finished HyperCars Service Center
+
+[33mcommit 7ea6e4a573b307e7ede9b3524871f5da240fc051[m
+Merge: 7017b5b 74b1d90
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Tue Jul 21 17:26:46 2020 +0800
+
+    Merge branch 'master' of https://github.com/ReneganRonin/JetBrains-Academy
+
+[33mcommit 7017b5b8b0e6c025ccaff00052313d2e4e279cf2[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Tue Jul 21 17:26:37 2020 +0800
+
+    HyperNews Portal Project to commit
+    
+    Finally finished a "Hard" project. Commiting to main...
+
+[33mcommit 74b1d9028981da8b3e1185db03e4728aaf8e9f54[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Tue Jul 21 17:23:56 2020 +0800
+
+    Update List of Projects Finished.txt
+    
+    Adding Hypercar Service Center as next project...
+
+[33mcommit 26462a5b942f9f84a25c753b38f8d61d57234a57[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Tue Jul 14 13:01:33 2020 +0800
+
+    Update List of Projects Finished.txt
+
+[33mcommit 2a0bbdef0a0eb25816666843446f7913b045bc12[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Tue Jul 14 12:54:04 2020 +0800
+
+    Finally finished Text-Based Browser
+    
+    Tada!!
+
+[33mcommit 3dc11e090d81307c88ce88192a8aa588ef7a1803[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Sun Jul 5 19:51:10 2020 +0800
+
+    Update List of Projects Finished.txt
+
+[33mcommit 980790afc84b458d44f6967d92940aa80f1deaf0[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Sun Jul 5 19:49:34 2020 +0800
+
+    Submitting Rock Paper Scissors Project
+    
+    This includes the text file where the scores and names are written and the project itself.
+
+[33mcommit 7f36f25eaa43c93a3d3808a2a32088f6b579cf1e[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Fri Jul 3 17:38:52 2020 +0800
+
+    Update Coffee Machine (Fixed).py
+    
+    Fixing issues on the while-loop and created more consistency for the output lines.
+
+[33mcommit 704c6ec6f7e4c3cf6b5d960fdc80ae60937e9233[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jul 2 21:52:09 2020 +0800
+
+    Update List of Projects Finished.txt
+    
+    Adding Rock Paper Scissors as next ongoing project. I am tired using my brain. Sorry for the downgrade.
+
+[33mcommit be47c03cd4d51a41cbf0f52394e650289ba8c834[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jul 2 21:41:46 2020 +0800
+
+    Update List of Projects Finished.txt
+
+[33mcommit 67ae3dfbbbc627b3b15fd894af20fbe14c60325f[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jul 2 21:37:44 2020 +0800
+
+    Finished Banking System Project
+    
+    Commiting finished project to master.
+
+[33mcommit cd49e6bd9acfccf6b13334e63a24eadc19d39d8e[m
+Merge: 2b1c8ed b03e534
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Sat Jun 27 21:07:01 2020 +0800
+
+    Merge pull request #5 from ReneganRonin/Revisions
+    
+    Create Coffee Machine (Fixed).py
+
+[33mcommit b03e534f51e68da5410249d6a78990df4ed68028[m[33m ([m[1;31morigin/Revisions[m[33m, [m[1;32mRevisions[m[33m)[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Sat Jun 27 21:05:18 2020 +0800
+
+    Create Coffee Machine (Fixed).py
+
+[33mcommit 2b1c8edb0eb528f32a57f6a3c46929b4af2626ad[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Sat Jun 27 14:33:46 2020 +0800
+
+    Update List of Projects Finished.txt
+    
+    Added a new project to complete
+
+[33mcommit ecd9af2a44cda0d7f2a5b428c566f65a3aa06114[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Sat Jun 27 14:30:02 2020 +0800
+
+    Create Hangman.py
+    
+    YEEET
+
+[33mcommit 1d1c5bd7b342c0a28e99537b091d065ab8eca64e[m
+Author: Soc V. E <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jun 25 13:42:29 2020 +0800
+
+    Create CODE_OF_CONDUCT.md
+    
+    Just adding things
+
+[33mcommit 0eeb1d3e8928f511a322585d4e628a842f5e0182[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jun 25 13:27:24 2020 +0800
+
+    Making New Folders
+    
+    Adding folders. Names are self-explanatory. I doubt I can even revise them cause I am a lazy bum.
+
+[33mcommit 03d2110cafac00c4dc1522a7356ef2e25f327621[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Thu Jun 25 13:22:29 2020 +0800
+
+    Revising Readme and Adding another Text File
+    
+    Description of the contents of the repository. Adding a text file for the list of projects mainly for finished ones.
+
+[33mcommit 05f9fc711440cdb78b4031eaeb418e534c6fc4ef[m
+Merge: 6bedd50 556f8e3
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Mon Jun 22 22:24:45 2020 +0800
+
+    Merge pull request #4 from ReneganRonin/Python-Projects
+    
+    Merge pull request #2 from ReneganRonin/master
+
+[33mcommit 6bedd50d4c2f8861f164ac0b6b9ed7f359462413[m
+Merge: 9090d0d d055d36
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Mon Jun 22 22:20:36 2020 +0800
+
+    Merge branch 'master' of https://github.com/ReneganRonin/JetBrains-Academy
+
+[33mcommit 9090d0da52b902c70073848c5aa0144ad8f59b80[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Mon Jun 22 22:20:15 2020 +0800
+
+    Create Simple Chatty Bot.py
+
+[33mcommit d055d3632864af6b2b0dbb02be8ab1b4e4a6d1b1[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Mon Jun 22 18:19:49 2020 +0800
+
+    Merge pull request #2 from ReneganRonin/master (#3)
+
+[33mcommit 556f8e37172fb7858015c61d2cd1ad94fefbf906[m
+Merge: 3723c73 7dbf358
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Mon Jun 22 18:17:59 2020 +0800
+
+    Merge pull request #2 from ReneganRonin/master
+    
+    Adding new project
+
+[33mcommit 7dbf35899750345a49c26fa30ff5120f08ae0966[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Mon Jun 22 18:15:04 2020 +0800
+
+    Create Coffee Machine.py
+
+[33mcommit 4ca1954aca09ac9925773d036a14ad39f7e76ad6[m
+Merge: 2987555 3723c73
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Fri Jun 19 17:19:39 2020 +0800
+
+    Merge pull request #1 from ReneganRonin/Python-Projects
+    
+    Create Zookeeper.py
+
+[33mcommit 3723c732f0f71d8e0c446bcb31d8e79098a66360[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Fri Jun 19 17:17:37 2020 +0800
+
+    Delete Zookeeper.py
+
+[33mcommit 0e70ce76e58202ca14c16f6de0c741dd230d0050[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Fri Jun 19 17:12:56 2020 +0800
+
+    Create Zookeeper.py
+
+[33mcommit 5ffa7dadd03ae249b5864584dd979ae8d13d40e8[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Fri Jun 19 17:07:45 2020 +0800
+
+    Create Zookeeper.py
+    
+    First adventure
+
+[33mcommit 2987555de103091f27d4f4eb220e447f8c903109[m
+Author: ReneganRonin <66054069+ReneganRonin@users.noreply.github.com>
+Date:   Fri Jun 19 16:15:59 2020 +0800
+
+    Initial commit
