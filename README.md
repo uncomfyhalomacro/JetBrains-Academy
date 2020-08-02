@@ -21,4 +21,4 @@ You are welcome to look around at my GitHub repo.
 11. Password Hacker [x]
 12. HyperJob Agency
 
-# Ongoing Project: # Pending...
+# Ongoing Project: *Credit Calculator*
