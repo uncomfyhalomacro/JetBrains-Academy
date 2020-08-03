@@ -13,4 +13,4 @@ Number of Projects Finished: 5
 12. HyperJob Agency
 13. Credit Calculator
 
-Ongoing Projects: ...
+Ongoing Projects: Tic-Tac-Toe
