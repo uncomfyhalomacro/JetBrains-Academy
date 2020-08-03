@@ -21,4 +21,4 @@ You are welcome to look around at my GitHub repo.
 11. Password Hacker [x]
 12. HyperJob Agency [x]
 13. Credit Calculator [x]
-# Ongoing Project: *Tic-Tac-Toe
+# Ongoing Project: *Tic-Tac-Toe*
