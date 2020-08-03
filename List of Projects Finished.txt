@@ -11,6 +11,6 @@ Number of Projects Finished: 5
 10. Smart Calculator
 11. Password Hacker
 12. HyperJob Agency
+13. Credit Calculator
 
-
-Ongoing Projects: Credit Calculator
+Ongoing Projects: ...

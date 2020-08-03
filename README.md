@@ -20,5 +20,5 @@ You are welcome to look around at my GitHub repo.
 10. Smart Calculator [needs some revisions: I used eval() here which is known to be a vulnerability]
 11. Password Hacker [x]
 12. HyperJob Agency [x]
-
-# Ongoing Project: *Credit Calculator*
+13. Credit Calculator [x]
+# Ongoing Project: ...
