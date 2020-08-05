@@ -12,5 +12,6 @@ Number of Projects Finished: 5
 11. Password Hacker
 12. HyperJob Agency
 13. Credit Calculator
+14. Tic-Tac-Toe
 
-Ongoing Projects: ...
+Ongoing Projects: Numeric Matrix Processor
