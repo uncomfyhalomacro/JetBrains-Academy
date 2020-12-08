@@ -1,4 +1,5 @@
 # JetBrains Academy
+
 My Programming Adventure.
 Hello fellow programmers. I am a greenhorn.
 I am still learning Python and then learn R.
@@ -8,6 +9,7 @@ and present research data in an informative way.
 You are welcome to look around at my GitHub repo.
 
 # Number of Projects Finished
+
 1. Zookeeper [x]
 2. Chatty Bot [x]
 3. Hangman [x]
@@ -22,6 +24,6 @@ You are welcome to look around at my GitHub repo.
 12. HyperJob Agency [x]
 13. Credit Calculator [x]
 14. Tic-Tac-Toe [x]
+15. Numeric Matrix Processor
 
-# Ongoing Project: *Numeric Matrix Processor*
-
+# Ongoing Project: None _off to self learning_
