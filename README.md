@@ -24,6 +24,6 @@ You are welcome to look around at my GitHub repo.
 12. HyperJob Agency [x]
 13. Credit Calculator [x]
 14. Tic-Tac-Toe [x]
-15. Numeric Matrix Processor
+15. Numeric Matrix Processor [x]
 
 # Ongoing Project: None _off to self learning_
